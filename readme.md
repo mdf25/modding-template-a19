@@ -26,7 +26,7 @@ To get the modlet working, there are one of two ways depending on whether you're
 
 
 # I'm not using anything in a certain folder. Can I remove it and all these readme files?
-- Yup! As long as it's not the Config folder, but all modlets need one of those to run and is where most of the chanegs are made. 
+- Yes you can. Removing stuff that you don't need is good practice and will make your modlet smaller, faster to download, and less resource intensive.
 - If not using any new images or icons, delete 'UIAtlases'.
 - If not using any new models, sounds, or textures, delete 'Resources'.
 - If not using DMT, delete 'Harmony', 'PatchScripts' and 'Scripts'.
